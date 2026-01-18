@@ -1,0 +1,2 @@
+cloud_vpn_public_ip = "35.94.188.252" OREGON_IP "Y"
+onprem_vpn_public_ip = "107.21.11.242" VIRGINIA_IP "X"
